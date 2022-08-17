@@ -8,14 +8,14 @@
 3. Users currently Online
 
 <p align="left">
-  <img src="./SS.png"/>
+  <img src="./SS_&_Favicons/SS.png"/>
   <br>
 </p>
 <p align="right">
-  <img src="./SS_2.png"/>
+  <img src="./SS_&_Favicons/SS_2.png"/>
   <br>
 </p>
 <p align="center">
-  <img src="./SS_3.png"/>
+  <img src="./SS_&_Favicons/SS_3.png"/>
   <br>
 </p>
